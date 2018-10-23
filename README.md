@@ -18,5 +18,7 @@ Software Requirements for running the web application:
 
 •	Run the web service by pressing Ctrl+f5
 
+An example of the application is hosted on Azure at: https://identitymatchingwebsite.azurewebsites.net/ 
+
 
 If there are any issues with accessing the web application, please contact: quangt123213@gmail.com
